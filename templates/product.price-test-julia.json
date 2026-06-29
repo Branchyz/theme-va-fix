@@ -1,0 +1,406 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "custom_rpaDLj": {
+          "type": "custom",
+          "settings": {
+            "code": "<style>\n  @keyframes inventory-pulse {\n      0% {\n          opacity: 0.5;\n      }\n\n      100% {\n          transform: scale(2.5);\n          opacity: 0;\n      }\n  }\n\n  span.green_icon {\n      display: inline-block;\n      position: relative;\n      height: 25px;\n      width: 25px;\n  }\n\n  .icon--inventory:before {\n      animation: inventory-pulse 2s linear infinite;\n  }\n\n  .icon--inventory:after,\n  .icon--inventory:before {\n      width: 9px;\n      height: 9px;\n      background: #F5AF29;\n      border-radius: 9px;\n      position: absolute;\n      left: 0;\n      top: 0;\n      content: \"\";\n      margin: 8px;\n  }\n\n  .aus_stock {\n      display: flex;\n      align-items: center;\n  }\n\n .aus-price s.price-item.price-item--regular {\n    font-size: 19px !important;\n    font-weight: bold !important;\n    font-family: 'Century Gothic', sans-serif;\n}\n\n.aus-price span.price-item.price-item--sale.price-item--last {\n    font-size: 34px;\n    font-weight: bold;\n    font-family: 'Century Gothic', sans-serif;\n}\n  }\n\n  button[name=\"add\"] {\n      box-shadow: 2px 3px 5px #0000009c;\n  }\n\n  button[name=\"add\"] span {\n      font-weight: 700;\n  }\n\n  .aus-price span.badge.price__badge-sale.color-accent-1 {\n      margin-top: 5px;\n  }\n\n  .product-single__price--compare-at.text-muted.text-strike .money {\n      font-size: 28px;\n      display: inline-grid;\n  }\n\n  .product-single__price.on-sale.text-sale .money {\n      font-size: 38px;\n  }\n\n  .aus_stock {\n      margin-top: 0 !important;\n      color: #54c63a;\n      letter-spacing: -.5px;\n  }\n\n\n  .c.promoCheckmarks ul {\n      list-style: none;\n      margin: 0;\n      padding: 0;\n  }\n\n  img.icon-img-one {\n      width: 20px;\n      display: inline-block;\n      margin-right: 5px;\n  }\n\n  .c.promoCheckmarks li {\n      display: flex;\n      align-items: center;\n      margin-bottom: 8px;\n  }\n\n  img.icon-img-two {\n      width: 30px;\n      margin-left: -5px;\n  }\n\n  img.icon-img-three {\n      width: 25px;\n      margin-right: 5px;\n  }\n\n  .aus_p_container {\n      margin-top: 0 !important;\n      margin-bottom: 30px;\n  }\n\n  span.green_icon.icon--inventory+span {\n      margin-left: 5px;\n      display: inline-block;\n  }\n\n  img.icon-img-one {\n      margin-right: 8px;\n  }\n\n  span.icon-and-text img {\n      width: 20px;\n      margin-right: 8px;\n  }\n\n  span.icon-and-text {\n      display: flex;\n      align-items: center;\n  }\n\n  .aus_stock {\n      margin-left: -5px;\n  }\n  svg.icon.icon--small.icon--type-price_tag {\n    width: 20px;\n    display: inline-block;\n    vertical-align: middle;\n}\n\np.priceme_sale {\n    margin: 0;\n    display: inline-block;\n    vertical-align: middle;\n}\n\n.off_sale.aus-sale-tag {\n    margin: 0;\n    top: -10px;\n    position: relative;\n}\n\n.aus-price span.price-item.price-item--sale.price-item--last {\n    color: #36C432;\n}\n\nimg.aus-vimg {\n    height: 50px;\n    width: 50px;\n    object-fit: cover;\n    object-position: center;\n    display: block;\n}\n\nlabel.vimg-label {\n    padding: 2px !important;\n    border-radius: 0 !IMPORTANT;\n}\n\n.main-gurentee-text {\n    font-size: inherit !important;\n}\n\n.aus-payment-icons.product-block.product-block--payment-icon {\n    max-width: 44rem;\n}\n\n.aus-payment-icons.product-block.product-block--payment-icon img {\n    width: 100%;\n    padding: 4px 15px;\n}\n\n.aus-pilot span {\n    font-family: 'Archivo';\n    \n}\np.priceme_sale strong {\n    font-weight: bold;\n    font-family: 'archivo';\n    display: inline-block;\n    margin-left: 5px;\n}\n.off_sale.aus-sale-tag {\n    display: flex;\n    align-items: center;\n}\n\n\np.priceme_sale {\n    width: calc(100% - 20px);\n    margin-left: 5px;\n}\n@media(max-width:768px){\n  p.priceme_sale {\n    margin-left:10px;\n  }\n}\n</style>\n<div class=\"aus_p_container\">\n  <div class=\"aus_bullets\">\n    <div class=\"c promoCheckmarks\">\n      <ul>\n        <li>\n          <div class=\"aus_stock\">\n            <span class=\"green_icon icon--inventory\"></span\n            ><span style=\"color:#F5AF29\">Prawie wyprzedane!</span>\n          </div>\n        </li>\n        <li class=\"sales-point\">\n          <span class=\"icon-and-text \">\n            <img\n              src=\"https://cdn.shopify.com/s/files/1/0981/0024/8905/files/truck.png?v=1767007178\"\n              role=\"presentation\"\n              height=\"auto\"\n              width=\"auto\"\n              loading=\"lazy\"\n            >\n            <span>Darmowa wysyłka z InPost lub DPD</span>\n          </span>\n        </li>\n        <li class=\"sales-point\">\n          <span class=\"icon-and-text \">\n            <img\n              src=\"https://cdn.shopify.com/s/files/1/0981/0024/8905/files/return.png?v=1767007178\"\n              role=\"presentation\"\n              height=\"auto\"\n              width=\"auto\"\n              loading=\"lazy\"\n            >\n            <span>30-dniowa gwarancja zwrotu pieniędzy</span>\n          </span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "custom_j7fVDd": {
+          "type": "custom",
+          "settings": {
+            "code": "<div class=\"product-block\">\n  <div style=\"\n    background-color:#f5eee8;\n    border:1px solid #e0d7d0;\n    border-radius:6px;\n    padding:15px;\n    margin-top:12px;\n    font-size:14px;\n    line-height:1.5;\n    color:#b21e1e;\n    font-weight:500;\n  \">\n    <strong style=\"color:#b21e1e;\">\n      AKTUALIZACJA WYPRZEDAŻY Z OKAZJI ZAMKNIĘCIA SKLEPU:\n    </strong>\n    Ze względu na ogromne zainteresowanie naszą wyprzedażą z okazji zamknięcia sklepu pozostało już tylko kilka sztuk! \n    Jeśli nadal możesz kliknąć\n    <strong style=\"color:#b21e1e;\">„Dodaj do koszyka”</strong>,\n    oznacza to, że produkt jest wciąż dostępny.\n  </div>\n</div>\n\n<div class=\"product-info__liquid\">\n\n<style>\n  .shipping-bar {\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n    background: #f7f7f7;\n    border-radius: 12px;\n    padding: 6px 10px;\n    font-family: sans-serif;\n    gap: 10px;\n    font-size: 11px;\n    white-space: nowrap;\n    overflow: hidden;\n    margin-top: -10px;\n  }\n\n  .shipping-left,\n  .shipping-right {\n    display: flex;\n    align-items: center;\n    gap: 4px;\n    min-width: 0;\n  }\n\n  .shipping-text {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n  }\n\n  @media (max-width: 400px) {\n    .shipping-bar {\n      font-size: 9px;\n      padding: 5px 8px;\n    }\n  }\n\n  @media (max-width: 330px) {\n    .shipping-bar {\n      font-size: 8px;\n    }\n  }\n\n  @media (max-width: 290px) {\n    .shipping-bar {\n      font-size: 7px;\n    }\n  }\n</style>\n\n<div class=\"shipping-bar\">\n\n  <!-- LINKERKANT -->\n  <div class=\"shipping-left\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"8\" height=\"8\" viewBox=\"0 0 12 13\">\n      <circle cx=\"6\" cy=\"6.5\" r=\"6\" fill=\"#137333\"></circle>\n    </svg>\n\n    <div class=\"shipping-text\" style=\"font-weight: 500;\">\n      Wysyłka\n      <span id=\"shipping-date\" style=\"font-weight: bold;\"></span>\n    </div>\n  </div>\n\n  <!-- RECHTERKANT -->\n  <div class=\"shipping-right\">\n    <img src=\"https://flagcdn.com/w20/pl.png\" alt=\"PL\" style=\"width: 14px; height: auto;\">\n    <div class=\"shipping-text\">\n      <span style=\"font-weight: bold;\">DARMOWA dostawa</span>\n    </div>\n  </div>\n\n</div>\n\n</div>\n\n<script>\n  (function () {\n    const daysPL = [\n      \"niedziela\",\n      \"poniedziałek\",\n      \"wtorek\",\n      \"środa\",\n      \"czwartek\",\n      \"piątek\",\n      \"sobota\"\n    ];\n\n    const monthsPL = [\n      \"stycznia\",\n      \"lutego\",\n      \"marca\",\n      \"kwietnia\",\n      \"maja\",\n      \"czerwca\",\n      \"lipca\",\n      \"sierpnia\",\n      \"września\",\n      \"października\",\n      \"listopada\",\n      \"grudnia\"\n    ];\n\n    const tomorrow = new Date();\n    tomorrow.setDate(tomorrow.getDate() + 1);\n\n    const dayName = daysPL[tomorrow.getDay()];\n    const dayNumber = tomorrow.getDate();\n    const monthName = monthsPL[tomorrow.getMonth()];\n\n    const el = document.getElementById(\"shipping-date\");\n    if (el) {\n      el.textContent = `${dayName} ${dayNumber} ${monthName}`;\n    }\n  })();\n</script>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "custom_rpaDLj",
+        "variant_picker",
+        "buy_buttons",
+        "custom_j7fVDd",
+        "description"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "ss_testimonial_12_9EHaDT": {
+      "type": "ss-testimonial-12",
+      "blocks": {
+        "slide_c3c4zJ": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/b73d2c77-fb90-40fc-a1ee-6a3c52c3ef5f.webp",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Obsługa klienta jest bardzo pomocna i szybko odpowiada na pytania. Miałam problem z rozmiarem sukienki i bez problemu wymienili produkt. </p>",
+            "author": "<p><strong>Katarzyna P.</strong></p>"
+          }
+        },
+        "slide_QBfAUb": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Gemini_Generated_Image_q4ar6bq4ar6bq4ar.webp",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 4.5,
+            "text": "<p>Świetne doświadczenie! Szybka dostawa, a jakość ubrań jest najwyższa. Wszystko było idealne i dokładnie takie, jak opisano. Zdecydowanie polecam!</p>",
+            "author": "<p><strong>Agnieszka M.</strong></p>"
+          }
+        },
+        "slide_39x9Tf": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Gemini_Generated_Image_pfvnobpfvnobpfvn.webp",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Jestem całkowicie zakochana w ich ubraniach. Kolekcja jest tak elegancka i ponadczasowa, idealna na każdą okazję. Jakość jest doskonała, a tkaniny świetnie czują się na skórze.</p>",
+            "author": "<p><strong>Karolina L.</strong></p>"
+          }
+        },
+        "slide_rtDgpM": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/Gemini_Generated_Image_5hgwr25hgwr25hgw.webp",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 4.5,
+            "text": "<p>Płaszcz jest lekki, ale ciepły i bardzo wygodny. Klasyczny fason sprawia, że pasuje praktycznie do wszystkiego.</p>",
+            "author": "<p><strong>Joanna J.</strong></p>"
+          }
+        },
+        "slide_9prkTt": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/1748691349__1748691343294-task-38064755-1-1__original.webp",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Miałam pytanie dotyczące rozmiaru i otrzymałam odpowiedź w ciągu godziny. Bardzo miła i pomocna obsługa dzięki temu cały proces był bezstresowy.</p>",
+            "author": "<p><strong>Magda T.</strong></p>"
+          }
+        },
+        "slide_Xmitwg": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "image": "shopify://shop_images/483067155_1165071568745772_6364381943984009717_n.webp",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Marynarka jest uszyta bardzo starannie, widać dbałość o detale. Tkanina wysokiej jakości od razu czuć różnicę w porównaniu do sieciówek.</p>",
+            "author": "<p><strong>Ewa D.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_c3c4zJ",
+        "slide_QBfAUb",
+        "slide_39x9Tf",
+        "slide_rtDgpM",
+        "slide_9prkTt",
+        "slide_Xmitwg"
+      ],
+      "name": "SS - Testimonials #12",
+      "settings": {
+        "heading": "<p>Opinie klientów o Jabłońska Moda</p>",
+        "heading_custom": false,
+        "heading_font": "poppins_n4",
+        "heading_size": 30,
+        "heading_size_mobile": 22,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 30,
+        "sub_heading_size_mobile": 22,
+        "sub_heading_height": 150,
+        "sub_heading_mt": 12,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "slider_view": 5,
+        "slider_view_mobile": 1.3,
+        "slider_gap": 28,
+        "slider_gap_mobile": 20,
+        "slider_mt": 20,
+        "autoplay": false,
+        "autoplay_delay": 5,
+        "card_padding_vertical": 20,
+        "card_padding_vertical_mobile": 16,
+        "card_padding_horizontal": 20,
+        "card_padding_horizontal_mobile": 16,
+        "card_radius": 20,
+        "card_border_thickness": 1,
+        "card_shadow": false,
+        "media_radius": 20,
+        "media_border_thickness": 0,
+        "media_ratio": "square",
+        "media_ratio_mobile": "square",
+        "content_padding_vertical": 0,
+        "content_padding_vertical_mobile": 0,
+        "content_padding_horizontal": 0,
+        "content_padding_horizontal_mobile": 0,
+        "hide_content": false,
+        "stars_size": 16,
+        "stars_mt": 12,
+        "stars_align": "center",
+        "stars_align_mobile": "center",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 12,
+        "text_align": "center",
+        "text_align_mobile": "center",
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "author_mt": 12,
+        "author_align": "center",
+        "author_align_mobile": "center",
+        "navigation_mt": 40,
+        "navigation_gap": 20,
+        "navigation_align": "center",
+        "navigation_align_mobile": "center",
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 10,
+        "dots_size_mobile": 10,
+        "dots_show_desktop": false,
+        "dots_show_mobile": true,
+        "btn_icon_size": 50,
+        "btn_icon_size_mobile": 40,
+        "card_bg_color": "#ffffff",
+        "card_bg_gradient": "",
+        "card_border_color": "#000000",
+        "media_border_color": "#121212",
+        "stars_color": "#323232",
+        "text_color": "#323232",
+        "author_color": "#323232",
+        "video_icon_bg_color": "#ffffff",
+        "video_icon_color": "#121212",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "dots_color": "#000000",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "product_recommendations_heading": "Kup w zestawie i zyskaj dodatkowe 15% rabatu",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "featured_collection_VxgkBx": {
+      "type": "featured-collection",
+      "disabled": true,
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Kup w zestawie i zyskaj dodatkowe 15% rabatu",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "176763213359ed2595": {
+      "type": "apps",
+      "blocks": {
+        "kiwi_size_chart_recommender_kiwi_sizing_84d8CH": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "fallbackToBlockPosition": false,
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
+        }
+      },
+      "block_order": [
+        "kiwi_size_chart_recommender_kiwi_sizing_84d8CH"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "text_and_image_Hi6Qkd": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/foto_headr.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Dziś obchodzimy wyjątkowy moment.",
+        "text": "<p>Po 25 wspaniałych latach żegnamy nasz ukochany sklep i przygotowujemy się na nowy rozdział. Była to podróż pełna kreatywności, pasji i niezapomnianych spotkań. Każda kolekcja, każdy detal i każdy klient przyczynił się do historii, której nigdy nie zapomnimy.</p><p>Aby uczcić ten jubileusz i nasze pożegnanie, zapraszamy Was na wielką wyprzedaż końcową. Wszystko musi zniknąć – ostatnia szansa, by odkryć najpiękniejszą modę i zakupy w wielkim stylu.</p><p>Dziękujemy wszystkim, którzy wspierali nas przez ostatnie 25 lat. Dzięki Wam Jabłońska Moda to coś więcej niż sklep; to miejsce elegancji, inspiracji i ponadczasowego stylu.</p><p>Zakończmy razem ten rozdział – modą, miłością i wspomnieniami, które pozostaną.</p><p><strong>Z serdecznymi podziękowaniami,<br/>Anna Jabłońska<br/>i Rodzina ❤️</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_hHpmNm": {
+      "type": "faq",
+      "blocks": {
+        "question_9DkXe3": {
+          "type": "question",
+          "settings": {
+            "title": "Czy mogę zwrócić swoje zamówienie, jeśli nie jestem zadowolona?",
+            "text": "<p>Tak, oczywiście! W Lidia Butik chcemy, abyś była w pełni zadowolona z zakupu. Swoje zamówienie możesz łatwo zwrócić w ciągu 30 dni od momentu dostawy. Dbamy o to, aby cały proces przebiegał sprawnie – nie musisz się o nic martwić.</p>"
+          }
+        },
+        "question_pzJDYi": {
+          "type": "question",
+          "settings": {
+            "title": "Jak mogę sprawdzić, jaki rozmiar będzie dla mnie odpowiedni?",
+            "text": "<p>Rozumiemy, jak ważne jest idealne dopasowanie ubrania. Dlatego na naszej stronie znajdziesz przejrzystą tabelę rozmiarów, która pomoże Ci wybrać ten właściwy. Wystarczy porównać swoje wymiary z tabelą, aby dowiedzieć się, który rozmiar będzie najlepiej pasował do Twojej sylwetki. Dzięki temu masz pewność, że wybierasz ubranie, które naprawdę dobrze leży!</p>"
+          }
+        },
+        "question_R6Qx4G": {
+          "type": "question",
+          "settings": {
+            "title": "Jak długo będę czekać na swoje zamówienie?",
+            "text": "<p>Wszystkie zamówienia na terenie Polski są przetwarzane w ciągu 1–3 dni roboczych i wysyłane szybko i niezawodnie. Zrobimy wszystko, aby dotarły do Ciebie jak najszybciej!</p>"
+          }
+        },
+        "question_KFMMDX": {
+          "type": "question",
+          "settings": {
+            "title": "Jak mogę się z Wami skontaktować?",
+            "text": "<p>Masz pytanie, nie jesteś pewna swojego zamówienia albo potrzebujesz porady? Jesteśmy tu dla Ciebie! Możesz skontaktować się z nami mailowo – postaramy się odpowiedzieć w ciągu 24 godzin.</p><p>E-mail: support@szymanska-moda.pl</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_9DkXe3",
+        "question_pzJDYi",
+        "question_R6Qx4G",
+        "question_KFMMDX"
+      ],
+      "disabled": true,
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "Najczęściej zadawane pytania"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ss_testimonial_12_9EHaDT",
+    "sub",
+    "product-recommendations",
+    "featured_collection_VxgkBx",
+    "recently-viewed",
+    "collection-return",
+    "176763213359ed2595",
+    "text_and_image_Hi6Qkd",
+    "faq_hHpmNm"
+  ]
+}
