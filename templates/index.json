@@ -15,18 +15,17 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
-            "title": "",
+            "top_subheading": "ΔΙΑΧΡΟΝΙΚΗ ΚΟΜΨΟΤΗΤΑ ΓΙΑ",
+            "title": "ΔΙΑΧΡΟΝΙΚΗ ΚΟΜΨΟΤΗΤΑ ΓΙΑ \nΟΛΟΥΣΚΑΛΟΚΑΙΡΙΝΕΣ ΠΡΟΣΦΟΡΕΣ: ΕΩΣ ΚΑΙ -60%",
             "title_size": 80,
-            "subheading": "",
+            "subheading": "ΟΛΟΥΣΚΑΛΟΚΑΙΡΙΝΕΣ ΠΡΟΣΦΟΡΕΣ: ΕΩΣ ΚΑΙ -60%",
             "link": "shopify://collections/damy",
             "link_text": "",
             "link_2": "shopify://collections/panowie",
             "link_text_2": "",
             "color_accent": "#296120",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/foto_headr.jpg",
-            "image_mobile": "shopify://shop_images/foto_headr.jpg",
+            "image": "shopify://shop_images/Streets-of-Athens-08.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 12
           }
@@ -103,7 +102,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/b73d2c77-fb90-40fc-a1ee-6a3c52c3ef5f.webp",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
@@ -115,7 +113,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/Gemini_Generated_Image_q4ar6bq4ar6bq4ar.webp",
             "video_url": "",
             "controls": false,
             "stars_count": 4.5,
@@ -127,7 +124,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/Gemini_Generated_Image_pfvnobpfvnobpfvn.webp",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
@@ -139,7 +135,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/Gemini_Generated_Image_5hgwr25hgwr25hgw.webp",
             "video_url": "",
             "controls": false,
             "stars_count": 4.5,
@@ -151,7 +146,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/1748691349__1748691343294-task-38064755-1-1__original.webp",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
@@ -163,7 +157,6 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
-            "image": "shopify://shop_images/483067155_1165071568745772_6364381943984009717_n.webp",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
