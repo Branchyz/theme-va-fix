@@ -72,30 +72,6 @@
         "divider": false
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Sukienki",
-        "home_featured_products": "sukienki",
-        "per_row": 4,
-        "rows": 2,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
-    "featured_collection_gmzc3j": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Kombinezony i komplety",
-        "home_featured_products": "kombinezony-i-komplety",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
     "ss_testimonial_12_bJAqkX": {
       "type": "ss-testimonial-12",
       "blocks": {
@@ -283,8 +259,6 @@
   "order": [
     "slideshow",
     "rich-text",
-    "featured-collection",
-    "featured_collection_gmzc3j",
     "ss_testimonial_12_bJAqkX"
   ]
 }
