@@ -1,1 +1,125 @@
-{"sections":{"collection-header":{"type":"collection-header","disabled":true,"settings":{"enable":true,"collection_image_enable":true,"parallax":true,"parallax_direction":"top"}},"slideshow_gpVHzR":{"type":"slideshow","blocks":{"image_yxWQTk":{"type":"image","settings":{"top_subheading":"","title":"","title_size":80,"subheading":"","link":"","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/foto_headr.jpg","image_mobile":"shopify:\/\/shop_images\/foto_headr.jpg","parallax_direction":"top","overlay_opacity":0}}},"block_order":["image_yxWQTk"],"name":"t:sections.slideshow.presets.hero_optional_slideshow.name","settings":{"section_height":"650px","mobile_height":"auto","parallax":false,"style":"minimal","autoplay":true,"autoplay_speed":5,"lazyload_images":true}},"rich_text_AfzVCU":{"type":"rich-text","blocks":{"text_AVQnzQ":{"type":"text","settings":{"enlarge_text":false,"text":"<p><strong>Dziś obchodzimy wyjątkowy i bardzo emocjonalny moment.<\/strong><br\/><br\/>Po <strong>25 wspaniałych latach <\/strong>żegnamy nasz ukochany sklep i zamykamy jeden z najpiękniejszych rozdziałów naszego życia. To była podróż pełna pasji, kreatywności i niezwykłych spotkań. Każda kolekcja, każdy detal i każdy z Was stał się częścią historii, której nigdy nie zapomnimy.<br\/><br\/>Aby uczcić ten jubileusz oraz nasze pożegnanie, przygotowaliśmy wielką wyprzedaż końcową.<br\/><br\/>W ramach podziękowania przygotowaliśmy jubileuszowe rabaty:<br\/><br\/><strong>EXTRA 15%<\/strong> ZNIŻKI PRZY ZAKUPIE 2 PRODUKTÓW<br\/><strong>EXTRA 20%<\/strong> ZNIŻKI PRZY ZAKUPIE 3 PRODUKTÓW<br\/><strong>EXTRA 25%<\/strong> ZNIŻKI PRZY ZAKUPIE 4+ PRODUKTÓW<br\/><br\/>*Rabaty naliczają się automatycznie przy kasie.<br\/><br\/><strong>Z serdecznymi podziękowaniami,<br\/>Anna Jabłońska i Rodzina <\/strong>❤️<\/p>"}}},"block_order":["text_AVQnzQ"],"name":"t:sections.rich-text.presets.rich_text.name","settings":{"align_text":"center","narrow_column":true,"divider":false}},"main-collection":{"type":"main-collection","blocks":{"collection_description":{"type":"collection_description","disabled":true,"settings":{}},"subcollections":{"type":"subcollections","disabled":true,"settings":{"subcollections_per_row":5}},"product_grid":{"type":"product_grid","settings":{"enable_collection_count":false,"per_row":4,"rows_per_page":7,"mobile_flush_grid":false}}},"block_order":["collection_description","subcollections","product_grid"],"settings":{"enable_sidebar":false,"collapsed":false,"filter_style":"sidebar","enable_color_swatches":false,"enable_swatch_labels":false,"enable_sort":false}}},"order":["collection-header","slideshow_gpVHzR","rich_text_AfzVCU","main-collection"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "slideshow_gpVHzR": {
+      "type": "slideshow",
+      "blocks": {
+        "image_yxWQTk": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/image_8.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_yxWQTk"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_AfzVCU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_AVQnzQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>ΚΑΛΟΚΑΙΡΙΝΕΣ ΕΚΠΤΩΣΕΙΣ</strong></p><p>Με αφορμή τις Καλοκαιρινές Εκπτώσεις, θα θέλαμε να ευχαριστήσουμε όλους τους πελάτες μας για την εμπιστοσύνη και την υποστήριξή τους.</p><p>Οι συλλογές μας ξεχωρίζουν για την ποιότητα, την άνεση και το διαχρονικό τους στυλ. Ανακαλύψτε αγαπημένα κομμάτια για άνδρες και γυναίκες, τώρα διαθέσιμα με εκπτώσεις έως και <strong>50%</strong>.</p><p>Επιπλέον, επωφεληθείτε από επιπλέον αυτόματες εκπτώσεις:</p><p><strong>ΕΠΙΠΛΕΟΝ 15% ΕΚΠΤΩΣΗ</strong> με αγορά <strong>2 προϊόντων</strong><br/><strong>ΕΠΙΠΛΕΟΝ 20% ΕΚΠΤΩΣΗ</strong> με αγορά <strong>3 προϊόντων</strong><br/><strong>ΕΠΙΠΛΕΟΝ 25% ΕΚΠΤΩΣΗ</strong> με αγορά <strong>4 ή περισσότερων προϊόντων</strong></p><p><em>Οι εκπτώσεις εφαρμόζονται αυτόματα στο ταμείο.</em></p><p>Ορισμένα σχέδια διατίθενται σε περιορισμένες ποσότητες κατά τη διάρκεια των εκπτώσεων.</p><p><strong>Με εκτίμηση,</strong><br/><strong>Η ομάδα της Βάλος Αθήνα ❤️</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_AVQnzQ"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "disabled": true,
+          "settings": {}
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "disabled": true,
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_swatch_labels": false,
+        "enable_sort": false
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "slideshow_gpVHzR",
+    "rich_text_AfzVCU",
+    "main-collection"
+  ]
+}
