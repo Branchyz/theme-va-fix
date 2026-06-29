@@ -15,10 +15,10 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "top_subheading": "ΔΙΑΧΡΟΝΙΚΗ ΚΟΜΨΟΤΗΤΑ ΓΙΑ",
-            "title": "ΔΙΑΧΡΟΝΙΚΗ ΚΟΜΨΟΤΗΤΑ ΓΙΑ \nΟΛΟΥΣΚΑΛΟΚΑΙΡΙΝΕΣ ΠΡΟΣΦΟΡΕΣ: ΕΩΣ ΚΑΙ -60%",
+            "top_subheading": "ΚΟΜΨΟΤΗΤΑ ΠΟΥ ΔΙΑΡΚΕΙ",
+            "title": "ΚΑΛΟΚΑΙΡΙΝΕΣ ΕΚΠΤΩΣΕΙΣ ΕΩΣ ΚΑΙ 60%",
             "title_size": 80,
-            "subheading": "ΟΛΟΥΣΚΑΛΟΚΑΙΡΙΝΕΣ ΠΡΟΣΦΟΡΕΣ: ΕΩΣ ΚΑΙ -60%",
+            "subheading": "Ποιότητα, άνεση και διαχρονικό στυλ.",
             "link": "shopify://collections/damy",
             "link_text": "",
             "link_2": "shopify://collections/panowie",
@@ -65,6 +65,7 @@
         "heading",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
