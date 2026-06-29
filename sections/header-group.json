@@ -14,35 +14,26 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_iKq7L9": {
+          "type": "announcement",
+          "settings": {
+            "text": "Δωρεάν αποστολή",
+            "link_text": "",
+            "link": ""
+          }
+        },
         "announcement_iirEcQ": {
           "type": "announcement",
           "settings": {
-            "text": "30 DNI NA ZWROT",
-            "link_text": "",
-            "link": ""
-          }
-        },
-        "announcement-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "DARMOWA WYSYŁKA Z INPOST LUB DPD",
-            "link_text": "",
-            "link": ""
-          }
-        },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": "6400+ ZADOWOLONYCH KLIENTÓW",
+            "text": "Επιστροφές εντός 30 ημερών",
             "link_text": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_iirEcQ",
-        "announcement-0",
-        "announcement-1"
+        "announcement_iKq7L9",
+        "announcement_iirEcQ"
       ],
       "settings": {
         "announcement_compact": true
