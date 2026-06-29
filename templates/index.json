@@ -70,6 +70,28 @@
         "divider": false
       }
     },
+    "text_and_image_YnnhLr": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/image_8.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Ανακαλύψτε διαχρονική μόδα για κάθε περίσταση.",
+        "text": "<p>Στη <strong>Βάλος Αθήνα</strong> πιστεύουμε ότι η κομψότητα βασίζεται στην ποιότητα, την άνεση και το διαχρονικό στυλ.</p><p>Για αυτό επιλέξαμε προσεκτικά τις αγαπημένες μας συλλογές για άνδρες και γυναίκες, ώστε να σας προσφέρουμε κομμάτια που θα φοριούνται για πολλά χρόνια.</p><p>Στις <strong>Καλοκαιρινές Εκπτώσεις</strong> μπορείτε να επωφεληθείτε από <strong>εκπτώσεις έως και 50%</strong> σε επιλεγμένα προϊόντα.</p><p>Σας ευχαριστούμε για την εμπιστοσύνη σας.</p><p><strong>Με εκτίμηση,</strong><br/><strong>Η ομάδα της Βάλος Αθήνα ❤️</strong></p><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "featured_collections_xmbhDq": {
       "type": "featured-collections",
       "blocks": {
@@ -336,6 +358,7 @@
     "slideshow",
     "featured_collection_TVjtrr",
     "featured_collection_8pW3Ex",
+    "text_and_image_YnnhLr",
     "featured_collections_xmbhDq",
     "rich-text",
     "ss_testimonial_12_bJAqkX"
