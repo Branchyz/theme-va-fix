@@ -44,6 +44,19 @@
         "lazyload_images": false
       }
     },
+    "featured_collection_TVjtrr": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Δημοφιλή",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -258,6 +271,7 @@
   },
   "order": [
     "slideshow",
+    "featured_collection_TVjtrr",
     "rich-text",
     "ss_testimonial_12_bJAqkX"
   ]
