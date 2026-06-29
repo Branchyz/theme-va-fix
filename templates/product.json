@@ -79,21 +79,71 @@
         "max_width": true
       }
     },
-    "ss_testimonial_12_zqahgM": {
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "custom_css": [],
+      "settings": {
+        "product_recommendations_heading": "Αγοράστε ως σετ και κερδίστε επιπλέον 15% έκπτωση",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "176763213359ed2595": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "text_and_image_Hi6Qkd": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/image_8.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Ανακαλύψτε διαχρονική μόδα για κάθε περίσταση.",
+        "text": "<p>Στη <strong>Βάλος Αθήνα</strong> πιστεύουμε ότι η κομψότητα βασίζεται στην ποιότητα, την άνεση και το διαχρονικό στυλ.</p><p>Για αυτό επιλέξαμε προσεκτικά τις αγαπημένες μας συλλογές για άνδρες και γυναίκες, ώστε να σας προσφέρουμε κομμάτια που θα φοριούνται για πολλά χρόνια.</p><p>Στις <strong>Καλοκαιρινές Εκπτώσεις</strong> μπορείτε να επωφεληθείτε από <strong>εκπτώσεις έως και 50%</strong> σε επιλεγμένα προϊόντα.</p><p>Σας ευχαριστούμε για την εμπιστοσύνη σας.</p><p><strong>Με εκτίμηση,</strong><br/><strong>Η ομάδα της Βάλος Αθήνα ❤️</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ss_testimonial_12_3aP3Kr": {
       "type": "ss-testimonial-12",
       "blocks": {
-        "slide_rrfbRh": {
+        "slide_RgXidy": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Η εξυπηρέτηση πελατών είναι πολύ χρήσιμη και απαντά γρήγορα στις ερωτήσεις. Είχα πρόβλημα με το μέγεθος του φορέματος και χωρίς πρόβλημα αντικατέστησαν το προϊόν.</p>",
+            "text": "<p>Η εξυπηρέτηση πελατών ήταν πολύ εξυπηρετική και απάντησε γρήγορα στις ερωτήσεις μου. Είχα πρόβλημα με το μέγεθος του φορέματος, αλλά η αλλαγή έγινε χωρίς κανένα πρόβλημα.</p>",
             "author": "<p><strong>Αθηνά Π.</strong></p>"
           }
         },
-        "slide_Xf7zqh": {
+        "slide_mFDeqM": {
           "type": "slide",
           "settings": {
             "media_style": "none",
@@ -104,29 +154,29 @@
             "author": "<p><strong>Σοφία Μ.</strong></p>"
           }
         },
-        "slide_TcmKX6": {
+        "slide_kHU7fg": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Είμαι εντελώς ερωτευμένη με τα ρούχα τους. Η συλλογή είναι τόσο κομψή και διαχρονική, ιδανική για κάθε περίσταση. Η ποιότητα είναι εξαιρετική και τα υφάσματα αισθάνονται υπέροχα στο δέρμα.</p>",
+            "text": "<p>Είμαι πραγματικά ενθουσιασμένη με τα ρούχα τους. Η συλλογή είναι τόσο κομψή και διαχρονική, ιδανική για κάθε περίσταση. Η ποιότητα είναι εξαιρετική και τα υφάσματα αισθάνονται υπέροχα στο δέρμα.</p>",
             "author": "<p><strong>Ελένη Λ.</strong></p>"
           }
         },
-        "slide_8haegJ": {
+        "slide_ji4XpA": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 4.5,
-            "text": "<p>Το παλτό είναι ελαφρύ, αλλά ζεστό και πολύ άνετο. Το κλασικό σχέδιο κάνει να ταιριάζει σχεδόν με όλα.</p>",
+            "text": "<p>Το παλτό είναι ελαφρύ, αλλά ζεστό και πολύ άνετο. Το κλασικό του σχέδιο ταιριάζει σχεδόν με τα πάντα.</p>",
             "author": "<p><strong>Ιωάννα Ι.</strong></p>"
           }
         },
-        "slide_JQqTbJ": {
+        "slide_k4zhdD": {
           "type": "slide",
           "settings": {
             "media_style": "none",
@@ -137,25 +187,25 @@
             "author": "<p><strong>Μαγδαληνή Τ.</strong></p>"
           }
         },
-        "slide_qfkp4p": {
+        "slide_4cNmJi": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Το σακάκι είναι ραμμένο με πολύ προσοχή, φαίνεται η φροντίδα στις λεπτομέρειες. Το ύφασμα υψηλής ποιότητας αμέσως κάνει τη διαφορά σε σύγκριση με τα καταστήματα αλυσίδας.</p>",
+            "text": "<p>Το σακάκι είναι ραμμένο με μεγάλη προσοχή και η ποιότητα φαίνεται σε κάθε λεπτομέρεια. Το ύφασμα υψηλής ποιότητας κάνει αμέσως τη διαφορά σε σύγκριση με τα συνηθισμένα καταστήματα.</p>",
             "author": "<p><strong>Εύα Δ.</strong></p>"
           }
         }
       },
       "block_order": [
-        "slide_rrfbRh",
-        "slide_Xf7zqh",
-        "slide_TcmKX6",
-        "slide_8haegJ",
-        "slide_JQqTbJ",
-        "slide_qfkp4p"
+        "slide_RgXidy",
+        "slide_mFDeqM",
+        "slide_kHU7fg",
+        "slide_ji4XpA",
+        "slide_k4zhdD",
+        "slide_4cNmJi"
       ],
       "name": "SS - Testimonials #12",
       "settings": {
@@ -262,56 +312,6 @@
         "lazy": true
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "custom_css": [],
-      "settings": {
-        "product_recommendations_heading": "Αγοράστε ως σετ και κερδίστε επιπλέον 15% έκπτωση",
-        "related_count": 6,
-        "products_per_row": 3
-      }
-    },
-    "recently-viewed": {
-      "type": "recently-viewed",
-      "disabled": true,
-      "settings": {
-        "recent_count": 5
-      }
-    },
-    "collection-return": {
-      "type": "collection-return",
-      "disabled": true,
-      "settings": {}
-    },
-    "176763213359ed2595": {
-      "type": "apps",
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "text_and_image_Hi6Qkd": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/image_8.webp",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Ανακαλύψτε διαχρονική μόδα για κάθε περίσταση.",
-        "text": "<p>Στη <strong>Βάλος Αθήνα</strong> πιστεύουμε ότι η κομψότητα βασίζεται στην ποιότητα, την άνεση και το διαχρονικό στυλ.</p><p>Για αυτό επιλέξαμε προσεκτικά τις αγαπημένες μας συλλογές για άνδρες και γυναίκες, ώστε να σας προσφέρουμε κομμάτια που θα φοριούνται για πολλά χρόνια.</p><p>Στις <strong>Καλοκαιρινές Εκπτώσεις</strong> μπορείτε να επωφεληθείτε από <strong>εκπτώσεις έως και 50%</strong> σε επιλεγμένα προϊόντα.</p><p>Σας ευχαριστούμε για την εμπιστοσύνη σας.</p><p><strong>Με εκτίμηση,</strong><br/><strong>Η ομάδα της Βάλος Αθήνα ❤️</strong></p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "66",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "faq_hHpmNm": {
       "type": "faq",
       "blocks": {
@@ -360,12 +360,12 @@
   "order": [
     "main",
     "sub",
-    "ss_testimonial_12_zqahgM",
     "product-recommendations",
     "recently-viewed",
     "collection-return",
     "176763213359ed2595",
     "text_and_image_Hi6Qkd",
+    "ss_testimonial_12_3aP3Kr",
     "faq_hHpmNm"
   ]
 }
