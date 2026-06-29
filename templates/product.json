@@ -266,7 +266,7 @@
       "type": "product-recommendations",
       "custom_css": [],
       "settings": {
-        "product_recommendations_heading": "Kup w zestawie i zyskaj dodatkowe 15% rabatu",
+        "product_recommendations_heading": "Αγοράστε ως σετ και κερδίστε επιπλέον 15% έκπτωση",
         "related_count": 6,
         "products_per_row": 3
       }
