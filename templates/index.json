@@ -49,12 +49,75 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "Δημοφιλή",
-        "home_featured_products": "",
+        "home_featured_products": "all",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": false,
         "divider": false
+      }
+    },
+    "featured_collection_8pW3Ex": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Φορέματα",
+        "home_featured_products": "foremata",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "featured_collections_xmbhDq": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_JeHhYf": {
+          "type": "collection",
+          "settings": {
+            "collection": "foremata",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_6Q6Tp7": {
+          "type": "collection",
+          "settings": {
+            "collection": "blouzes-top",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_iUFgzg": {
+          "type": "collection",
+          "settings": {
+            "collection": "olosomes-formes-set",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_pgyXar": {
+          "type": "collection",
+          "settings": {
+            "collection": "gynaikeia-pantelonia",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_JeHhYf",
+        "collection_6Q6Tp7",
+        "collection_iUFgzg",
+        "collection_pgyXar"
+      ],
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "Συλλογές",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
       }
     },
     "rich-text": {
@@ -91,67 +154,67 @@
         "slide_LNyywc": {
           "type": "slide",
           "settings": {
-            "media_style": "image",
+            "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Obsługa klienta jest bardzo pomocna i szybko odpowiada na pytania. Miałam problem z rozmiarem sukienki i bez problemu wymienili produkt. </p>",
-            "author": "<p><strong>Katarzyna P.</strong></p>"
+            "text": "<p>Η εξυπηρέτηση πελατών είναι πολύ χρήσιμη και απαντά γρήγορα στις ερωτήσεις. Είχα πρόβλημα με το μέγεθος του φορέματος και χωρίς πρόβλημα αντικατέστησαν το προϊόν.</p>",
+            "author": "<p><strong>Αθηνά Π.</strong></p>"
           }
         },
         "slide_r9V6T4": {
           "type": "slide",
           "settings": {
-            "media_style": "image",
+            "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 4.5,
-            "text": "<p>Świetne doświadczenie! Szybka dostawa, a jakość ubrań jest najwyższa. Wszystko było idealne i dokładnie takie, jak opisano. Zdecydowanie polecam!</p>",
-            "author": "<p><strong>Agnieszka M.</strong></p>"
+            "text": "<p>Υπέροχη εμπειρία! Γρήγορη παράδοση και η ποιότητα των ρούχων είναι εξαιρετική. Όλα ήταν τέλεια και ακριβώς όπως περιγράφονταν. Σίγουρα το συνιστώ!</p>",
+            "author": "<p><strong>Σοφία Μ.</strong></p>"
           }
         },
         "slide_wmtxHh": {
           "type": "slide",
           "settings": {
-            "media_style": "image",
+            "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Jestem całkowicie zakochana w ich ubraniach. Kolekcja jest tak elegancka i ponadczasowa, idealna na każdą okazję. Jakość jest doskonała, a tkaniny świetnie czują się na skórze.</p>",
-            "author": "<p><strong>Karolina L.</strong></p>"
+            "text": "<p>Είμαι εντελώς ερωτευμένη με τα ρούχα τους. Η συλλογή είναι τόσο κομψή και διαχρονική, ιδανική για κάθε περίσταση. Η ποιότητα είναι εξαιρετική και τα υφάσματα αισθάνονται υπέροχα στο δέρμα.</p>",
+            "author": "<p><strong>Ελένη Λ.</strong></p>"
           }
         },
         "slide_3G4QWr": {
           "type": "slide",
           "settings": {
-            "media_style": "image",
+            "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 4.5,
-            "text": "<p>Płaszcz jest lekki, ale ciepły i bardzo wygodny. Klasyczny fason sprawia, że pasuje praktycznie do wszystkiego.</p>",
-            "author": "<p><strong>Joanna J.</strong></p>"
+            "text": "<p>Το παλτό είναι ελαφρύ, αλλά ζεστό και πολύ άνετο. Το κλασικό σχέδιο κάνει να ταιριάζει σχεδόν με όλα.</p>",
+            "author": "<p><strong>Ιωάννα Ι.</strong></p>"
           }
         },
         "slide_MDqwa7": {
           "type": "slide",
           "settings": {
-            "media_style": "image",
+            "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Miałam pytanie dotyczące rozmiaru i otrzymałam odpowiedź w ciągu godziny. Bardzo miła i pomocna obsługa dzięki temu cały proces był bezstresowy.</p>",
-            "author": "<p><strong>Magda T.</strong></p>"
+            "text": "<p>Είχα μια ερώτηση σχετικά με το μέγεθος και πήρα απάντηση σε μια ώρα. Πολύ ευγενική και χρήσιμη εξυπηρέτηση, γι' αυτό ολόκληρη η διαδικασία ήταν χωρίς άγχος.</p>",
+            "author": "<p><strong>Μαγδαληνή Τ.</strong></p>"
           }
         },
         "slide_jHJMgz": {
           "type": "slide",
           "settings": {
-            "media_style": "image",
+            "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Marynarka jest uszyta bardzo starannie, widać dbałość o detale. Tkanina wysokiej jakości od razu czuć różnicę w porównaniu do sieciówek.</p>",
-            "author": "<p><strong>Ewa D.</strong></p>"
+            "text": "<p>Το σακάκι είναι ραμμένο με πολύ προσοχή, φαίνεται η φροντίδα στις λεπτομέρειες. Το ύφασμα υψηλής ποιότητας αμέσως κάνει τη διαφορά σε σύγκριση με τα καταστήματα αλυσίδας.</p>",
+            "author": "<p><strong>Εύα Δ.</strong></p>"
           }
         }
       },
@@ -165,7 +228,7 @@
       ],
       "name": "SS - Testimonials #12",
       "settings": {
-        "heading": "<p>Opinie klientów o Jabłońska Moda</p>",
+        "heading": "<p>Τι λένε οι πελάτες για τη Βάλος Αθήνα</p>",
         "heading_custom": false,
         "heading_font": "poppins_n4",
         "heading_size": 30,
@@ -272,6 +335,8 @@
   "order": [
     "slideshow",
     "featured_collection_TVjtrr",
+    "featured_collection_8pW3Ex",
+    "featured_collections_xmbhDq",
     "rich-text",
     "ss_testimonial_12_bJAqkX"
   ]
