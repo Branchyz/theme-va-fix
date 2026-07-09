@@ -120,12 +120,12 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/image_8.webp",
+        "image": "shopify://shop_images/hf_20260708_193231_49e1d2be-ba34-4453-b1ed-705872a09896_1.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Ανακαλύψτε διαχρονική μόδα για κάθε περίσταση.",
-        "text": "<p>Στη <strong>Βάλος Αθήνα</strong> πιστεύουμε ότι η κομψότητα βασίζεται στην ποιότητα, την άνεση και το διαχρονικό στυλ.</p><p>Για αυτό επιλέξαμε προσεκτικά τις αγαπημένες μας συλλογές για άνδρες και γυναίκες, ώστε να σας προσφέρουμε κομμάτια που θα φοριούνται για πολλά χρόνια.</p><p>Στις <strong>Καλοκαιρινές Εκπτώσεις</strong> μπορείτε να επωφεληθείτε από <strong>εκπτώσεις έως και 50%</strong> σε επιλεγμένα προϊόντα.</p><p>Σας ευχαριστούμε για την εμπιστοσύνη σας.</p><p><strong>Με εκτίμηση,</strong><br/><strong>Η ομάδα της Βάλος Αθήνα ❤️</strong></p><p></p>",
+        "title": "ZOMERUITVERKOOP TOT 50% KORTING",
+        "text": "<p>Bij <strong>Norel Amsterdam</strong> geloven we dat echte stijl begint bij kwaliteit, comfort en tijdloze elegantie. Daarom hebben we met zorg onze favoriete collecties voor dames geselecteerd, zodat u kunt genieten van kleding die seizoen na seizoen mooi blijft.</p><p>Tijdens onze <strong>Zomeruitverkoop</strong> profiteert u van <strong>kortingen tot 50%</strong> op een selectie van onze populairste items.</p><p>Bedankt voor uw vertrouwen.</p><p>Met vriendelijke groet,<br/><strong>Team Norel Amsterdam ❤️</strong></p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -138,87 +138,87 @@
         "lazyload_images": true
       }
     },
-    "ss_testimonial_12_3aP3Kr": {
+    "ss_testimonial_12_EdPnxL": {
       "type": "ss-testimonial-12",
       "blocks": {
-        "slide_RgXidy": {
+        "slide_kWVhiH": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Η εξυπηρέτηση πελατών ήταν πολύ εξυπηρετική και απάντησε γρήγορα στις ερωτήσεις μου. Είχα πρόβλημα με το μέγεθος του φορέματος, αλλά η αλλαγή έγινε χωρίς κανένα πρόβλημα.</p>",
-            "author": "<p><strong>Αθηνά Π.</strong></p>"
+            "text": "<p>De klantenservice was erg behulpzaam en antwoordde snel op mijn vragen. Ik had een probleem met de maat van de jurk, maar de ruil verliep zonder enig probleem.</p>",
+            "author": "<p><strong>Anna V.</strong></p>"
           }
         },
-        "slide_mFDeqM": {
+        "slide_DXmXqn": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 4.5,
-            "text": "<p>Υπέροχη εμπειρία! Γρήγορη παράδοση και η ποιότητα των ρούχων είναι εξαιρετική. Όλα ήταν τέλεια και ακριβώς όπως περιγράφονταν. Σίγουρα το συνιστώ!</p>",
-            "author": "<p><strong>Σοφία Μ.</strong></p>"
+            "text": "<p>Geweldige ervaring! Snelle levering en de kwaliteit van de kleding is uitstekend. Alles was perfect en precies zoals beschreven. Ik raad het zeker aan!</p>",
+            "author": "<p><strong>Maria K.</strong></p>"
           }
         },
-        "slide_kHU7fg": {
+        "slide_bL3dAp": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Είμαι πραγματικά ενθουσιασμένη με τα ρούχα τους. Η συλλογή είναι τόσο κομψή και διαχρονική, ιδανική για κάθε περίσταση. Η ποιότητα είναι εξαιρετική και τα υφάσματα αισθάνονται υπέροχα στο δέρμα.</p>",
-            "author": "<p><strong>Ελένη Λ.</strong></p>"
+            "text": "<p>Ik ben echt zeer tevreden over hun kleding. De jurken zijn elegant en perfect voor elke gelegenheid. De kwaliteit is uitstekend en de stoffen voelen goed op de huid.</p>",
+            "author": "<p><strong>Petra L.</strong></p>"
           }
         },
-        "slide_ji4XpA": {
+        "slide_CQ4n3X": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 4.5,
-            "text": "<p>Το παλτό είναι ελαφρύ, αλλά ζεστό και πολύ άνετο. Το κλασικό του σχέδιο ταιριάζει σχεδόν με τα πάντα.</p>",
-            "author": "<p><strong>Ιωάννα Ι.</strong></p>"
+            "text": "<p>De jas is licht, maar warm en erg comfortabel. Het klassieke ontwerp past bij bijna alles.</p>",
+            "author": "<p><strong>Ingrid M.</strong></p>"
           }
         },
-        "slide_k4zhdD": {
+        "slide_hVq4Ve": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Είχα μια ερώτηση σχετικά με το μέγεθος και πήρα απάντηση σε μια ώρα. Πολύ ευγενική και χρήσιμη εξυπηρέτηση, γι' αυτό ολόκληρη η διαδικασία ήταν χωρίς άγχος.</p>",
-            "author": "<p><strong>Μαγδαληνή Τ.</strong></p>"
+            "text": "<p>Ik had een vraag over de maat en kreeg binnen een uur antwoord. Erg vriendelijke en behulpzame service, waardoor bestellen gemakkelijk verliep.</p>",
+            "author": "<p><strong>Liesbeth T.</strong></p>"
           }
         },
-        "slide_4cNmJi": {
+        "slide_dT4UBz": {
           "type": "slide",
           "settings": {
             "media_style": "none",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Το σακάκι είναι ραμμένο με μεγάλη προσοχή και η ποιότητα φαίνεται σε κάθε λεπτομέρεια. Το ύφασμα υψηλής ποιότητας κάνει αμέσως τη διαφορά σε σύγκριση με τα συνηθισμένα καταστήματα.</p>",
-            "author": "<p><strong>Εύα Δ.</strong></p>"
+            "text": "<p>De jurk is met grote zorg genaaid en de kwaliteit is zichtbaar in elke hoek. De hoogwaardige stof maakt onmiddellijk het verschil in vergelijking met gewone winkels.</p>",
+            "author": "<p><strong>Sofie D.</strong></p>"
           }
         }
       },
       "block_order": [
-        "slide_RgXidy",
-        "slide_mFDeqM",
-        "slide_kHU7fg",
-        "slide_ji4XpA",
-        "slide_k4zhdD",
-        "slide_4cNmJi"
+        "slide_kWVhiH",
+        "slide_DXmXqn",
+        "slide_bL3dAp",
+        "slide_CQ4n3X",
+        "slide_hVq4Ve",
+        "slide_dT4UBz"
       ],
       "name": "SS - Testimonials #12",
       "settings": {
-        "heading": "<p>Τι λένε οι πελάτες για τη Βάλος Αθήνα</p>",
+        "heading": "<h2>Onze Klantervaringen</h2>",
         "heading_custom": false,
         "heading_font": "poppins_n4",
         "heading_size": 30,
@@ -309,8 +309,8 @@
         "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#121212",
-        "margin_top": 40,
-        "margin_bottom": 60,
+        "margin_top": 0,
+        "margin_bottom": 0,
         "padding_top": 0,
         "padding_bottom": 36,
         "padding_horizontal": 5,
@@ -374,7 +374,7 @@
     "collection-return",
     "176763213359ed2595",
     "text_and_image_Hi6Qkd",
-    "ss_testimonial_12_3aP3Kr",
+    "ss_testimonial_12_EdPnxL",
     "faq_hHpmNm"
   ]
 }

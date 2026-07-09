@@ -78,7 +78,7 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Ontdek tijdloze mode voor elke gelegenheid.",
+        "title": "ZOMERUITVERKOOP TOT 50% KORTING",
         "text": "<p>Bij <strong>Norel Amsterdam</strong> geloven we dat echte stijl begint bij kwaliteit, comfort en tijdloze elegantie. Daarom hebben we met zorg onze favoriete collecties voor dames geselecteerd, zodat u kunt genieten van kleding die seizoen na seizoen mooi blijft.</p><p>Tijdens onze <strong>Zomeruitverkoop</strong> profiteert u van <strong>kortingen tot 50%</strong> op een selectie van onze populairste items.</p><p>Bedankt voor uw vertrouwen.</p><p>Met vriendelijke groet,<br/><strong>Team Norel Amsterdam ❤️</strong></p>",
         "button_label": "",
         "button_link": "",
@@ -250,7 +250,7 @@
       ],
       "name": "SS - Testimonials #12",
       "settings": {
-        "heading": "<p>Wat klanten zeggen over Norel Amsterdam</p>",
+        "heading": "<h2>Onze Klantervaringen</h2>",
         "heading_custom": false,
         "heading_font": "poppins_n4",
         "heading_size": 30,
