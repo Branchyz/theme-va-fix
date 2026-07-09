@@ -73,8 +73,8 @@
           "type": "custom",
           "settings": {
             "show_footer_title": true,
-            "title": "Επικοινωνία",
-            "text": "<p><strong>Ώρες λειτουργίας:</strong><br/>Δευτέρα – Παρασκευή: 09:00 – 18:00</p><p>Έχετε ερωτήσεις; Επικοινωνήστε με την ομάδα εξυπηρέτησης πελατών μας μέσω email.</p><p><strong>Email:</strong> <a href=\"mailto:info@valosathena.gr\">info@valosathena.gr</a></p>",
+            "title": "Contact",
+            "text": "<p><strong>Openingstijden:</strong><br/>Maandag t/m vrijdag: <strong>09:00 – 18:00</strong></p><p>Heeft u vragen? Neem gerust contact op met onze klantenservice via e-mail.</p><p><strong>E-mail:</strong> <a>info@norelamsterdam.nl</a></p>",
             "container_width": 25
           }
         },
@@ -82,8 +82,8 @@
           "type": "custom",
           "settings": {
             "show_footer_title": true,
-            "title": "Επιστροφές",
-            "text": "<p>Δεν είστε απόλυτα ικανοποιημένοι; Μην ανησυχείτε!</p><p>Προσφέρουμε πολιτική επιστροφών <strong>30 ημερών</strong>.</p><p>Επικοινωνήστε μαζί μας στο: <a href=\"mailto:info@valosathena.gr\">info@valosathena.gr</a></p>",
+            "title": "Retourneren",
+            "text": "<p>Niet helemaal tevreden met uw bestelling? Geen zorgen!</p><p>Wij bieden een <strong>retourtermijn van 30 dagen</strong>.</p><p>Neem gerust contact met ons op via: <a><strong>info@norelamsterdam.nl</strong></a></p>",
             "container_width": 25
           }
         },
