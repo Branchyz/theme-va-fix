@@ -678,7 +678,7 @@
         "free_label": "Gratis"
       },
       "shipping_errors": {
-        "empty_state": "GRATIS VERZENDING MET POSTNL"
+        "empty_state": "Gratis PostNL Verzending"
       },
       "marketing": {
         "accept_marketing_checkbox_label": "Ik ontvang graag track-and-trace-updates over mijn zending per e-mail"
