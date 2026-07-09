@@ -109,13 +109,6 @@
       "disabled": true,
       "settings": {}
     },
-    "176763213359ed2595": {
-      "type": "apps",
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "text_and_image_Hi6Qkd": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -364,6 +357,13 @@
       "settings": {
         "title": "Najczęściej zadawane pytania"
       }
+    },
+    "176763213359ed2595": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -372,9 +372,9 @@
     "product-recommendations",
     "recently-viewed",
     "collection-return",
-    "176763213359ed2595",
     "text_and_image_Hi6Qkd",
     "ss_testimonial_12_EdPnxL",
-    "faq_hHpmNm"
+    "faq_hHpmNm",
+    "176763213359ed2595"
   ]
 }
