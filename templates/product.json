@@ -251,7 +251,7 @@
         "card_shadow": false,
         "media_radius": 20,
         "media_border_thickness": 0,
-        "media_ratio": "square",
+        "media_ratio": "portrait",
         "media_ratio_mobile": "square",
         "content_padding_vertical": 0,
         "content_padding_vertical_mobile": 0,
