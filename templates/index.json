@@ -62,7 +62,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "Jurken",
-        "home_featured_products": "foremata",
+        "home_featured_products": "jurken",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
@@ -98,7 +98,7 @@
         "collection_JeHhYf": {
           "type": "collection",
           "settings": {
-            "collection": "foremata",
+            "collection": "jurken",
             "title": "",
             "focal_point": "center center"
           }
