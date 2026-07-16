@@ -39,33 +39,15 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
-        },
-        "image_XTCrQ8": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And optional subtext",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
-        "image_yxWQTk",
-        "image_XTCrQ8"
+        "image_yxWQTk"
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "650px",
-        "mobile_height": "100vh",
+        "mobile_height": "auto",
         "parallax": false,
         "style": "minimal",
         "autoplay": true,
