@@ -1,0 +1,125 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "slideshow_gpVHzR": {
+      "type": "slideshow",
+      "blocks": {
+        "image_yxWQTk": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/hf_20260708_193231_49e1d2be-ba34-4453-b1ed-705872a09896_1.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_yxWQTk"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_AfzVCU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_AVQnzQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>ZOMERUITVERKOOP</strong></p><p>Ter gelegenheid van onze <strong>Zomeruitverkoop</strong> willen wij al onze klanten bedanken voor hun vertrouwen en steun.</p><p>Bij <strong>Norel Amsterdam</strong> staan kwaliteit, comfort en tijdloze elegantie centraal. Ontdek stijlvolle mode voor dames, nu verkrijgbaar met <strong>kortingen tot 50%</strong>.</p><p>Profiteer daarnaast van extra automatische stapelkorting:</p><p><strong>15% EXTRA KORTING</strong> bij aankoop van <strong>2 artikelen</strong><br/><strong>20% EXTRA KORTING</strong> bij aankoop van <strong>3 artikelen</strong><br/><strong>25% EXTRA KORTING</strong> bij aankoop van <strong>4 of meer artikelen</strong><br/></p><p><em>De korting wordt automatisch verrekend bij het afrekenen.</em></p><p>Let op: een aantal modellen is tijdens de uitverkoop slechts beperkt beschikbaar.</p><p>Met vriendelijke groet,<br/><strong>Team Norel Amsterdam ❤️</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_AVQnzQ"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "disabled": true,
+          "settings": {}
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "disabled": true,
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_swatch_labels": false,
+        "enable_sort": false
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "slideshow_gpVHzR",
+    "rich_text_AfzVCU",
+    "main-collection"
+  ]
+}
